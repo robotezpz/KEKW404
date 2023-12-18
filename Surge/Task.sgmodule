@@ -5,7 +5,7 @@
 爱奇艺签到 = type=cron,cronexp=0 9 * * *,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js,wake-system=1,timeout=120
 # B站每日任务 = type=cron,cronexp=30 7 * * *,script-path=https://raw.githubusercontent.com/ClydeTime/Surge/main/Script/Task/BiliBili.js,wake-system=1,timeout=15
 # 贴吧签到 = type=cron,cronexp=0 9 * * *,script-path=https://raw.githubusercontent.com/ClydeTime/Surge/main/Script/Task/TieBa.js,wake-system=1,timeout=15
-# 喜马拉雅签到 = type=cron,cronexp=35 8 * * *,script-path=https://raw.githubusercontent.com/ClydeTime/Surge/main/Script/Task/xmly.js,wake-system=1,timeout=15
+喜马拉雅签到 = type=cron,cronexp=35 8 * * *,script-path=https://raw.githubusercontent.com/ClydeTime/Surge/main/Script/Task/xmly.js,wake-system=1,timeout=15
 # 建行生活签到 = type=cron,cronexp=17 7 * * *,script-path=https://raw.githubusercontent.com/ClydeTime/Surge/main/Script/Task/CCBLife.js,wake-system=1,timeout=15
 # 高德打车签到 = type=cron,cronexp=1 0 * * *,script-path=https://raw.githubusercontent.com/ClydeTime/Surge/main/Script/Task/amap.js,wake-system=1,timeout=15
 # 阿里云盘签到 = type=cron,cronexp=12 0 * * *,script-path=https://raw.githubusercontent.com/ClydeTime/Surge/main/Script/Task/ADrive.js,wake-system=1,timeout=15
