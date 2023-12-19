@@ -1,8 +1,8 @@
 ﻿#!name=财新
-#!desc=财新
+#!desc=财新周刊
 [Script]
-财新 = type=http-request,pattern=^https?:\/\/gateway\.caixin\.com\/api\/app\-api\/auth\/(validate|validateAudioAuth),script-path=https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/caixin.js
+财新周刊 = type=http-response,pattern=https?:\/\/ipadcms\.caixin\.com\/tmp\/articles,requires-body=1,script-path=https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js
 [MITM]
-hostname= %APPEND% gateway.caixin.com
+hostname= %APPEND% ipadcms.caixin.com
 
 
