@@ -80,7 +80,7 @@ proxies:
         ip: 172.16.0.2
         ipv6: 2606:4700:110:8100:8895:b862:b5fa:b0cf    
         public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-        allowed-ips: ['0.0.0.0/0']
+        allowed-ips: ['0.0.0.0/0', '::/0']
         reserved: [53,152,86]
     udp: true    
     mtu: 1280
