@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipwho.is
