@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
+IP-CIDR,161.129.35.81/32,no-resolve
